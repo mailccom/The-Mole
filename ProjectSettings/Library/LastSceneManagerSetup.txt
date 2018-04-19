@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/lino/Documents/Progra_Videojuegos/SpriteSingle/Assets/SingleSprites.unity
+  isLoaded: 1
+  isActive: 1
